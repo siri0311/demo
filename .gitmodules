@@ -1,0 +1,6 @@
+[submodule "add"]
+	path = add
+	url = git@github.com:siri0311/add.git
+[submodule "external_libs/add"]
+	path = external_libs/add
+	url = git@github.com:siri0311/add.git
